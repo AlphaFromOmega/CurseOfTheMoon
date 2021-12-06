@@ -1,0 +1,3 @@
+displayName = Curse Of The Moon
+author = Almega
+version = 0.1

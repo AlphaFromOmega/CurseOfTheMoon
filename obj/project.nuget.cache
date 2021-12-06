@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NyXT6ekLB/Cr3XS5aPCFoihHdA5saz6SixRIMfBPyY2F+VfM/0foBR+6wQpRX60v3fbbGRsCX8LleYojQco/lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrhat\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\CurseOfTheMoon\\CurseOfTheMoon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrhat\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
